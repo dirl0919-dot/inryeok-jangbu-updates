@@ -2,12 +2,12 @@
     "format":  "INRYEOK_UPDATE_V1",
     "channel":  "stable",
     "appMode":  "user",
-    "version":  "3.6.4",
-    "buildNumber":  211,
-    "publishedAtUtc":  "2026-09-22T06:26:25.4251483Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_211_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build211-user/inryeok_jangbu_3.6.4_211_user.zip",
-    "packageSize":  30014815,
-    "sha256":  "c0412a50417acc5d2762241be3919ec6d86b27151f4b819953ca1cf9f117e8d3",
-    "notes":  "교체명단 업체별 월 누적 7일 제한 복구"
+    "version":  "3.6.8",
+    "buildNumber":  249,
+    "publishedAtUtc":  "2026-11-01T11:39:45.8870945Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_249_user.zip",
+    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build249-user/inryeok_jangbu_3.6.8_249_user.zip",
+    "packageSize":  41080940,
+    "sha256":  "78f90af5d78705362a2c8b99964e527abedba443a172187d61522b161acd81ba",
+    "notes":  "메일 전송 미리보기 제목·본문 직접 편집 지원, dirl0919 자동 업데이트 주소 전환"
 }
