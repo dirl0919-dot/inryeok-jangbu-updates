@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.8",
-    "buildNumber":  249,
-    "publishedAtUtc":  "2026-11-01T11:39:45.8870945Z",
-    "packageFile":  "inryeok_jangbu_3.6.8_249_user.zip",
-    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build249-user/inryeok_jangbu_3.6.8_249_user.zip",
-    "packageSize":  41080940,
-    "sha256":  "78f90af5d78705362a2c8b99964e527abedba443a172187d61522b161acd81ba",
-    "notes":  "메일 전송 미리보기 제목·본문 직접 편집 지원, dirl0919 자동 업데이트 주소 전환"
+    "buildNumber":  250,
+    "publishedAtUtc":  "2026-11-02T09:39:33.4184674Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_250_user.zip",
+    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build250-user/inryeok_jangbu_3.6.8_250_user.zip",
+    "packageSize":  41080245,
+    "sha256":  "352a07cc339f54bea5a3c6f9df863dbe0889bbd5fc6144a69eecb9b1c6c05912",
+    "notes":  "Windows 접근성 네이티브 충돌 방지 강화, Drive 백그라운드 화면 갱신 최소화"
 }
