@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.8",
-    "buildNumber":  250,
-    "publishedAtUtc":  "2026-11-02T09:39:33.4184674Z",
-    "packageFile":  "inryeok_jangbu_3.6.8_250_user.zip",
-    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build250-user/inryeok_jangbu_3.6.8_250_user.zip",
-    "packageSize":  41080245,
-    "sha256":  "352a07cc339f54bea5a3c6f9df863dbe0889bbd5fc6144a69eecb9b1c6c05912",
-    "notes":  "Windows 접근성 네이티브 충돌 방지 강화, Drive 백그라운드 화면 갱신 최소화"
+    "buildNumber":  251,
+    "publishedAtUtc":  "2026-11-02T11:10:53.1282037Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_251_user.zip",
+    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build251-user/inryeok_jangbu_3.6.8_251_user.zip",
+    "packageSize":  41084149,
+    "sha256":  "f0ea43e501ad748cc48dd313037c4dd94ce361a44f6873771881e922940e2641",
+    "notes":  "출력일보 최종 청구금액 메일 엑셀 반영, 양식1 선택기간 전체 날짜열 자동 확장"
 }
