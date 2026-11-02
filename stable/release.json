@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.8",
-    "buildNumber":  251,
-    "publishedAtUtc":  "2026-11-02T11:10:53.1282037Z",
-    "packageFile":  "inryeok_jangbu_3.6.8_251_user.zip",
-    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build251-user/inryeok_jangbu_3.6.8_251_user.zip",
-    "packageSize":  41084149,
-    "sha256":  "f0ea43e501ad748cc48dd313037c4dd94ce361a44f6873771881e922940e2641",
-    "notes":  "출력일보 최종 청구금액 메일 엑셀 반영, 양식1 선택기간 전체 날짜열 자동 확장"
+    "buildNumber":  252,
+    "publishedAtUtc":  "2026-11-02T11:27:27.3520520Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_252_user.zip",
+    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build252-user/inryeok_jangbu_3.6.8_252_user.zip",
+    "packageSize":  25606047,
+    "sha256":  "0e211a6db9b3ec87f1f94ed46189c0ed13b7942efaadb88088c71a7e45be3f29",
+    "notes":  "메일전송 기본 사실확인서 PDF 추가, 출력일보 최종 청구금액 및 선택기간 반영"
 }
