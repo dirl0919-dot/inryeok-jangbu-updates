@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.8",
-    "buildNumber":  253,
-    "publishedAtUtc":  "2026-11-02T12:34:49.9015888Z",
-    "packageFile":  "inryeok_jangbu_3.6.8_253_user.zip",
-    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build253-user/inryeok_jangbu_3.6.8_253_user.zip",
-    "packageSize":  41100065,
-    "sha256":  "76ec3b4fbed0dfac77ea38167c21276331b4b333be7a241547099bde8f3cf5f7",
-    "notes":  "메일 출력일보 단가 우선순위 수정, 양식1 선택기간별 날짜 열 가변 및 Excel 복구 오류 수정, 사실확인서 귀중 문구 삭제"
+    "buildNumber":  254,
+    "publishedAtUtc":  "2026-11-02T13:07:22.9235637Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_254_user.zip",
+    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build254-user/inryeok_jangbu_3.6.8_254_user.zip",
+    "packageSize":  41102399,
+    "sha256":  "7d20c3ba2a5f1c40379cf5fe0da3897a79884d4e7cae7f246179f1cf8ef22f08",
+    "notes":  "양식1 장기간 날짜 확장 시 빈 셀 테두리 복원 및 상단·인력정보 고정"
 }
