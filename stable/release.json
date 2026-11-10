@@ -3,11 +3,11 @@
   "channel": "stable",
   "appMode": "user",
   "version": "3.6.8",
-  "buildNumber": 257,
-  "publishedAtUtc": "2026-11-10T11:09:43.7570623Z",
-  "packageFile": "inryeok_jangbu_3.6.8_257_user.zip",
-  "packageUrl": "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build257-user/inryeok_jangbu_3.6.8_257_user.zip",
-  "packageSize": 41629765,
-  "sha256": "e482dda66662762432e4a996b38e31096a79abc33893da30f98f52aec85153c3",
-  "notes": "실투입세부내역 최신 공급사 양식 우선 적용, 주소·공수 열 및 실제 근무일자 표시 수정"
+  "buildNumber": 258,
+  "publishedAtUtc": "2026-11-10T11:35:42.5677816Z",
+  "packageFile": "inryeok_jangbu_3.6.8_258_user.zip",
+  "packageUrl": "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build258-user/inryeok_jangbu_3.6.8_258_user.zip",
+  "packageSize": 41629800,
+  "sha256": "b3a4c1b18c7a22a671650b064f4e17d1541fa9614fb3858e9e9cb88e833b3459",
+  "notes": "실투입세부내역 주민번호 등 문자 셀의 잔여 색상 서식을 정상 서식으로 통일"
 }
