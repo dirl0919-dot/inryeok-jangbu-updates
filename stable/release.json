@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.8",
-    "buildNumber":  255,
-    "publishedAtUtc":  "2026-11-10T10:00:54.9972884Z",
-    "packageFile":  "inryeok_jangbu_3.6.8_255_user.zip",
-    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build255-user/inryeok_jangbu_3.6.8_255_user.zip",
-    "packageSize":  41106419,
-    "sha256":  "6e471e823974bc8ef9a343dffd6cb4cadbbfae659a6fd6c8086e155d8584836e",
-    "notes":  "실투입세부내역서 공급사 공통양식 적용: 원청사·현장·주소·공수·출력일보 단가·임금합계·비고 반영 및 숫자서식 보정"
+    "buildNumber":  256,
+    "publishedAtUtc":  "2026-11-10T10:27:31.4699279Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_256_user.zip",
+    "packageUrl":  "https://github.com/dirl0919-dot/inryeok-jangbu-updates/releases/download/v3.6.8-build256-user/inryeok_jangbu_3.6.8_256_user.zip",
+    "packageSize":  41106882,
+    "sha256":  "c60840e660e9fe5a3932ca7d7efbf34d6c5d0f151c1183718a098c409a080e72",
+    "notes":  "중복 실투입세부내역 양식을 최신 기본내장 양식 하나로 통합"
 }
